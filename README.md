@@ -31,7 +31,7 @@ I love building robust backend systems, working with modern Java frameworks, and
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra" alt="Databases" />
 
   <!-- Oracle icon -->
-  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" alt="oracle" width="40" height="40" />
   <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks & Platforms:</strong><br/>
