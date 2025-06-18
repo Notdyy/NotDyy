@@ -21,14 +21,11 @@ I love building robust backend systems, working with modern Java frameworks, and
   <!-- Programming Languages & Web -->
   <strong>Languages & Web:</strong><br/>
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript" alt="Languages" />  
-
-  <br/><br/>
-
+  <br/>
   <!-- Tools -->
   <strong>Tools & Platforms:</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,docker" alt="Tools" />
-
-  <br/><br/>
+  <br/>
 
   <!-- Databases -->
   <strong>Databases:</strong><br/>
@@ -36,9 +33,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Oracle icon -->
   <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" />
-
-  <br/><br/>
-
+  <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks & Platforms:</strong><br/>
   <!-- PrimeFaces icon -->
