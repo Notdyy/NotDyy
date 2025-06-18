@@ -17,7 +17,13 @@ I love building robust backend systems, working with modern Java frameworks, and
 ### 🧰 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,docker,mysql,postgres,mongodb,oracle,sqlite,redis,cassandra" />
+  
+  <!-- SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,docker,mysql,postgres,mongodb,sqlite,redis,cassandra" />
+
+  <!-- Oracle icon from Devicon -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
+  
 </p>
 
 ---
