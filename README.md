@@ -17,14 +17,36 @@ I love building robust backend systems, working with modern Java frameworks, and
 ### 🧰 Languages and Tools:
 
 <p align="left">
-  
-  <!-- SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,docker,mysql,postgres,mongodb,sqlite,redis,cassandra" />
 
-  <!-- Oracle icon from Devicon -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-  
+  <!-- Programming Languages & Web -->
+  <strong>Languages & Web:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" alt="Languages" />  
+
+  <br/><br/>
+
+  <!-- Tools -->
+  <strong>Tools & Platforms:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker" alt="Tools" />
+
+  <br/><br/>
+
+  <!-- Databases -->
+  <strong>Databases:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra" alt="Databases" />
+
+  <!-- Oracle icon -->
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40" />
+
+  <br/><br/>
+
+  <!-- Frameworks / Platforms -->
+  <strong>Frameworks & Platforms:</strong><br/>
+  <!-- PrimeFaces icon -->
+  <img src="https://www.primefaces.org/wp-content/uploads/2020/01/primefaces-logo.png" alt="primefaces" width="90" height="40" style="vertical-align:middle;" />
+
+  <!-- Jakarta EE icon -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Jakarta_EE_logo.svg" alt="jakartaee" width="90" height="40" style="vertical-align:middle; margin-left:10px;" />
+
 </p>
 
 ---
-
