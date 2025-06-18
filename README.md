@@ -20,8 +20,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Programming Languages & Web -->
   <strong>Languages & Web:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" alt="Languages" />  
-  <br/>
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" alt="Languages" />
   <!-- Tools -->
   <strong>Tools & Platforms:</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,docker" alt="Tools" />
