@@ -38,6 +38,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Jakarta EE icon -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Jakarta_ee_logo_schooner_color_stacked_default.svg" alt="jakartaee" width="90" height="40" style="vertical-align:middle; margin-left:10px;" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="springboot" />
 
 </p>
 
