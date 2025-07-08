@@ -38,7 +38,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Jakarta EE icon -->
   <span style="display: inline-flex; align-items: center; gap: 12px; margin-top: 8px;">
-    <img src="https://skillicons.dev/icons?i=jakartaee,spring&theme=light" alt="Frameworks" />
+    https://skills.syvixor.com/api/icons?i=jakartaee,spring
   </span>
 
 </p>
