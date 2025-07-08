@@ -20,15 +20,15 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Programming Languages & Web -->
   <strong>Languages & Web:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript&theme=light" alt="Languages" />
   <!-- Tools -->
   <strong>Tools & Platforms:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman,eclipse,idea" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,docker,postman,eclipse,idea&theme=light" alt="Tools" />
   <br/>
 
   <!-- Databases -->
   <strong>Databases:</strong><br/>
-  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra,oracle" alt="Databases"/>
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra,oracle&theme=light" alt="Databases"/>
   <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks & Platforms:</strong><br/>
