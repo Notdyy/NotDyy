@@ -28,10 +28,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Databases -->
   <strong>Databases:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra" alt="Databases" />
-
-  <!-- Oracle icon -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Oracle_Corporation_logo.svg" alt="oracle" width="52" height="40" />
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgres,mongodb,sqlite,redis,cassandra,oracle" alt="Databases"/>
   <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks & Platforms:</strong><br/>
