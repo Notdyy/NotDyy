@@ -32,7 +32,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Databases -->
   <strong>Databases:</strong><br/>
-  <img src="https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongodb,sqlite,redis,cassandra,oracle&theme=light" alt="Databases"/>
+  <img src="https://skills.syvixor.com/api/icons?i=mysql,mariadb,postgresql,mongodb,sqlite,redis,cassandra,oracle&theme=light" alt="Databases"/>
   <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks:</strong><br/>
