@@ -23,7 +23,7 @@ I love building robust backend systems, working with modern Java frameworks, and
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript&theme=light" alt="Languages" />
   <!-- Tools -->
   <strong>Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=postman,eclipse,idea,pycharm&theme=light" alt="Tools" />
+  <img src="https://skills.syvixor.com/api/icons?i=postman,dbeaver,eclipseide,intellijidea,pycharm" alt="Tools" />
   <br/>
 
   <strong>Version Control & DevOps:</strong><br/>
@@ -32,7 +32,7 @@ I love building robust backend systems, working with modern Java frameworks, and
 
   <!-- Databases -->
   <strong>Databases:</strong><br/>
-  <img src="https://skills.syvixor.com/api/icons?i=mysql,postgressql,mongodb,sqlite,redis,cassandra,oracle&theme=light" alt="Databases"/>
+  <img src="https://skills.syvixor.com/api/icons?i=postgresql,mysql,mongodb,sqlite,redis,cassandra,oracle&theme=light" alt="Databases"/>
   <br/>
   <!-- Frameworks / Platforms -->
   <strong>Frameworks:</strong><br/>
